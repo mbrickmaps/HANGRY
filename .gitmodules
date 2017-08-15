@@ -1,0 +1,9 @@
+[submodule "Leaflet"]
+	path = Leaflet
+	url = https://github.com/Leaflet/Leaflet
+[submodule "list.js"]
+	path = list.js
+	url = https://github.com/javve/list.js
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery
